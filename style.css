@@ -1,0 +1,51 @@
+
+section {
+    height:400px;
+    padding-top:50px;
+    padding-bottom:50px;
+    overflow:auto;
+    margin-top: 0px;
+}
+
+.affix-top,.affix-bottom {
+    width:100%;
+    position:fixed;
+    display:block;
+}
+
+.affix {
+    display:none;
+}
+
+
+
+.bg-1 {
+    background: url('land_4-wallpaper-1920x1080.jpg') no-repeat center center fixed;
+    color:#fff;
+    background-size:cover;
+    margin-top: 0px;
+}
+
+.bg-2 {
+    background: url('Zebra-MBP.jpg') no-repeat top center fixed;
+    color:#fff;
+    background-size:cover;
+}
+
+.bg-3 {
+    background: url('Full-Hd-1920X1080-Wallpapers-hd.jpeg') no-repeat bottom center fixed;
+    color:#fff;
+    background-size:cover;
+}
+
+#footer {
+    height: 60px;
+    background-color:#585858;
+    /*margin-top:50px;*/
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#footer a {
+    color:#efefef;
+}
